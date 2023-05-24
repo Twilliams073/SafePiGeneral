@@ -4,6 +4,8 @@ Required dependencies: JDK 17, node.js, npm, etc.
 
 May require others that were already installed for me
 
+Frontend may require node_modules to be added to the root folder (folder containing package.json)
+
 Starting Commands:
 
 Backend:
