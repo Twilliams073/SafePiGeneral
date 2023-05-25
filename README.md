@@ -15,7 +15,7 @@ Backend:
 Frontend:
 @ directory with package.json, use command: npm start
 
-#Raspberry Pi Setup
+# Raspberry Pi Setup
 
 - Install safepi.py on Raspberry Pi
 - Attach a reed switch to GPIO pin 26 and another to GPIO pin 16
